@@ -2,6 +2,7 @@
 Year: 1853
 Genre: Opera
 Creator: Giuseppe Verdi
+ICD: 1B10.0
 Disease: pulmonary tuberculosis
 Music: Addio del passato
 Composer: Giuseppe Verdi
